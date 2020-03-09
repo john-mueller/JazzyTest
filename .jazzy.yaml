@@ -1,0 +1,11 @@
+output: docs
+clean: true
+swift_build_tool: spm
+author: John Mueller
+author_url: https://john-mueller.github.io/
+module: JazzyTest
+module_version: v0.1.0
+copyright: © 2020 John Mueller
+github_url: https://github.com/john-mueller/JazzyTest/
+min_acl: private
+theme: fullwidth
