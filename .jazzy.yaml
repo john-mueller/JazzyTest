@@ -1,4 +1,3 @@
-output: docs
 clean: true
 swift_build_tool: spm
 author: John Mueller
