@@ -1,0 +1,19 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/runners/2.165.2/work/JazzyTest/JazzyTest/Sources/JazzyTest/JazzyTest.swift",
+      "line": 1,
+      "symbol": "JazzyTest",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/runners/2.165.2/work/JazzyTest/JazzyTest/Sources/JazzyTest/JazzyTest.swift",
+      "line": 2,
+      "symbol": "JazzyTest.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/runners/2.165.2/work/JazzyTest/JazzyTest"
+}
